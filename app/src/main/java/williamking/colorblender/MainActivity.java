@@ -10,6 +10,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.SeekBar;
 
+/**
+ *  Assistance and Code Snippets acquired from Android's Developer Website
+ *
+ *  @author William King
+ */
 public class MainActivity extends AppCompatActivity {
 
     // Variables
