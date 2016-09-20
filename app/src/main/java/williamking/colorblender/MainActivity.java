@@ -1,11 +1,10 @@
 package williamking.colorblender;
 
+import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.SurfaceView;
-import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.SeekBar;
@@ -15,7 +14,7 @@ import android.widget.SeekBar;
  *
  *  @author William King
  */
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
     // Variables
 
